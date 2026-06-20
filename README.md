@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Kunal Kumbhar
 
-<!--
-**kumbharkunal59-cell/kumbharkunal59-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 B.Sc.CS (Artificial Intelligence, Machine Learning & VR)
+* 💻 Java Developer
+* 🐍 Python Developer
+* 🌐 Flask Developer
+* 🤖 AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Java
+* Python
+* JavaScript
+* HTML
+* CSS
+* MySQL
+* Flask
+* Git & GitHub
+
+## 🚀 Projects
+
+* Smart Crime Detection System
+* MSME Platform
+* RFID Attendance System
+* Bus Pass Management System
+* Weather App
+* AI Chatbot
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/kumbharkunal59-cell
+
+⭐ Learning, Building and Growing Every Day
