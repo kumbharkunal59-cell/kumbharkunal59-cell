@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <h1>Kunal Bharat Kumbhar</h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing Animation" />
@@ -128,14 +128,27 @@ Alongside my full-stack development journey, my academic background in Artificia
 
 I regularly practice Data Structures and Algorithms on the following platforms:
 
-- LeetCode
-- HackerRank
-- CodeChef
-- GeeksforGeeks
+| Platform | Profile |
+|----------|---------|
+| LeetCode | https://leetcode.com/u/USERNAME |
+| CodeChef | https://www.codechef.com/users/USERNAME |
+| HackerRank | https://www.hackerrank.com/USERNAME |
+| GeeksforGeeks | https://auth.geeksforgeeks.org/user/USERNAME |
 
 ---
 
-## Goals for 2026
+## 💼 Experience
+
+### Java Full Stack Developer (Learning)
+2025 – Present
+
+- Building REST APIs using Spring Boot
+- Learning Spring Security & JWT
+- React Frontend Development
+- MySQL Database Design
+- Docker & AWS Basics
+
+## 🚀 2026 Roadmap
 
 - Secure a **Software Engineering or Full Stack Development Internship**.
 - Build a solid grasp of **System Design** fundamentals.
@@ -158,5 +171,3 @@ I am actively looking for internship opportunities and open to collaborating on 
 
 If you like my work, consider following me and exploring my repositories.
 
-Happy Coding! 🚀
-```
